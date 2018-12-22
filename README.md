@@ -10,7 +10,7 @@ This source is Universal and can work with ANY Open Source SDK using C with the 
 
 
 
-
+Needed to Compile is https://github.com/orbisdev/liborbis and its binaries and Includes along with ANY SDK you want to use including Sonys
 
 
 for CopyRight reasons Binaries will only be available on our Site 
