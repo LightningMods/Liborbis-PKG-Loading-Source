@@ -1,9 +1,4 @@
-﻿/* SIE CONFIDENTIAL
-PlayStation(R)4 Programmer Tool Runtime Library Release 04.508.001
-* Copyright (C) 2013 Sony Interactive Entertainment Inc.
-* All Rights Reserved.
-*/
-/* library.cpp: Defines the functions, variables and classes for the PRX */
+
 
 /*E Signal to the header file that this compilation is for the PRX */
 /*J このコンパイルが特定のPRX向けであることを示すヘッダーファイルへのシグナル*/
